@@ -23,6 +23,9 @@ namespace VariaStrings
         static string h = String.Format("\nArg {1} e {0}", m,n); // {0} is always the fist number (m), regardless of '{}'s order;
         static string g = String.Format("\nArg {0} nº {1}", "yeet",n); // srtings of text can also replace the '{}'
 
+        static double xx = 0.12345;
+        static int ii = 18;
+
 
 
         static void Main(string[] args)
@@ -45,6 +48,15 @@ namespace VariaStrings
             Console.WriteLine(g);
 
             Console.WriteLine("Valor de m e'{0}", m);
+
+
+            Console.WriteLine("\nxx =" + xx);
+            Console.WriteLine("ii =" + ii + "\n");
+            Console.WriteLine("xx.00 =" + $"{xx:f2}"); //imprime com 2 casa decimais
+            Console.WriteLine("xx.00% =" + $"{xx:p2}"); //imprime percentagem com 2 casas decimais
+
+            Console.WriteLine("iiOx =" + $"{ii:x}"); //imprime em hexadecimal
+            Console.WriteLine("ii$ =" + $"{ii:c}"); //imprime com o simbolo da moeda
         }
     }
 }
