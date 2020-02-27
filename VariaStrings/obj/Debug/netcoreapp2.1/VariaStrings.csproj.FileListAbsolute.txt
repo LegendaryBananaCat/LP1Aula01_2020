@@ -1,0 +1,11 @@
+H:\LP1_Prt2\LP1Aula01\VariaStrings\bin\Debug\netcoreapp2.1\VariaStrings.deps.json
+H:\LP1_Prt2\LP1Aula01\VariaStrings\bin\Debug\netcoreapp2.1\VariaStrings.runtimeconfig.json
+H:\LP1_Prt2\LP1Aula01\VariaStrings\bin\Debug\netcoreapp2.1\VariaStrings.runtimeconfig.dev.json
+H:\LP1_Prt2\LP1Aula01\VariaStrings\bin\Debug\netcoreapp2.1\VariaStrings.dll
+H:\LP1_Prt2\LP1Aula01\VariaStrings\bin\Debug\netcoreapp2.1\VariaStrings.pdb
+H:\LP1_Prt2\LP1Aula01\VariaStrings\obj\Debug\netcoreapp2.1\VariaStrings.csprojAssemblyReference.cache
+H:\LP1_Prt2\LP1Aula01\VariaStrings\obj\Debug\netcoreapp2.1\VariaStrings.csproj.CoreCompileInputs.cache
+H:\LP1_Prt2\LP1Aula01\VariaStrings\obj\Debug\netcoreapp2.1\VariaStrings.AssemblyInfoInputs.cache
+H:\LP1_Prt2\LP1Aula01\VariaStrings\obj\Debug\netcoreapp2.1\VariaStrings.AssemblyInfo.cs
+H:\LP1_Prt2\LP1Aula01\VariaStrings\obj\Debug\netcoreapp2.1\VariaStrings.dll
+H:\LP1_Prt2\LP1Aula01\VariaStrings\obj\Debug\netcoreapp2.1\VariaStrings.pdb
